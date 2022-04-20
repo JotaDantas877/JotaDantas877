@@ -1,7 +1,8 @@
 ## Oiii eu sou a Jota Dantas, especialista em Infraestrutura, segurança, auditoria e estudante de desenvolvimento tecnologia!
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/jotadantas877">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotadantas877&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadantas877&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <h4> - Linguagens de estudo: </h4>
